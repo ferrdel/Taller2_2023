@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartaPresentacion", "CartaPresentacion\CartaPresentacion.csproj", "{46841E66-4313-4126-ABBD-4472B79AF6C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaUI", "CartaPresentacion\CapaUI.csproj", "{46841E66-4313-4126-ABBD-4472B79AF6C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidad", "CapaEntidad\CapaEntidad.csproj", "{F96142F7-F5B3-48B1-A3CE-35E5E94DBFE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntities", "CapaEntidad\CapaEntities.csproj", "{F96142F7-F5B3-48B1-A3CE-35E5E94DBFE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{4F41DCBA-4AE3-4070-A70B-4F3DC5A9F114}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogic", "CapaNegocio\CapaLogic.csproj", "{4F41DCBA-4AE3-4070-A70B-4F3DC5A9F114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{CB682DCA-C50E-45C5-96E3-FA8C4391570A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaData", "CapaDatos\CapaData.csproj", "{CB682DCA-C50E-45C5-96E3-FA8C4391570A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
